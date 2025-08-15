@@ -57,6 +57,8 @@ nvcc -O2 -Xcompiler -fopenmp -o mandelbrot_gpu gpu.c
 
 # 🎮 Interactive GUI Features
 
+**Link Video Demonstrasi:** https://drive.google.com/file/d/1YyHEHLBw9gQYu8ngPiy99kwfM8KXCxic/view?usp=sharing
+
 ### **Real-Time Fractal Explorer**
 - **Interactive Zoom**: Left-click dan drag untuk memilih area zoom
 - **Pan Navigation**: Right-click dan drag untuk menggeser pandangan  
